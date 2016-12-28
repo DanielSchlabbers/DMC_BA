@@ -1,0 +1,22 @@
+DMC 1
+
+-> dataset is balanced
+-> result set should be balanced (according to tutor)
+
+----
+Algorihtm:
+Random Decision Tree Forest -> shown best for this type of classification
+
+
+----
+Data Preparation
+
+CallStart - CallEnd -> CallTime
+	- if success call in morning - noon - afternoon - evening
+LastContactDay -> Time since last contact
+Normalizaton -> Zero Values to NA or additional attribute
+
+----
+Validation
+k-Folds cross validation (usual 10 folds)
+
